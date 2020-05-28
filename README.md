@@ -17,6 +17,8 @@ The main objective is to build a series of scatter plots to showcase the followi
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
+![](output_data/Latitude vs. Temperature Plot.png)
+
 However, the final notebook must:
 
 * Randomly select **at least** 500 unique (non-repeat) cities based on latitude and longitude.
